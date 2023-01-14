@@ -18,6 +18,13 @@ h4 {
 }
 
 .hero-page {
-  padding: 100px;
+  padding: 80px;
   background-color: #ffefd5;
+}
+
+.btn-brand-color {
+  background: #4b0082;
+  color: #ffffff;
+  padding: 5px 25px;
+  margin-top: 15px;
 }

@@ -29,6 +29,15 @@ i {
   margin-bottom: 40px;
 }
 
+a:hover {
+  color: var(--secondary-color);
+}
+
+.button-link {
+  text-decoration: none;
+  color: #ffffff;
+}
+
 .hero-page {
   padding: 80px;
   background-color: var(--primary-color);

@@ -1,0 +1,23 @@
+:root {
+  --primary-font-family: "Josefin Sans", serif;
+}
+
+body {
+  text-align: center;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 60px;
+}
+
+h4 {
+  font-style: italic;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.hero-page {
+  padding: 100px;
+  background-color: #ffefd5;
+}

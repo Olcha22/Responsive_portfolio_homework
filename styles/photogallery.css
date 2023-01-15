@@ -64,6 +64,18 @@ a:hover {
   opacity: 70%;
 }
 
+.about-section {
+  padding: 80px;
+}
+
+.about-section img {
+  max-width: 400px;
+}
+
+.weather-app-img {
+  margin: 0 auto;
+}
+
 @media (max-width: 600px) {
   h1 {
     text-align: center;
